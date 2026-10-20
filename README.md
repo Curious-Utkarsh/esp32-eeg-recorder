@@ -41,7 +41,7 @@ Note: `eeg.py` expects a WebSocket client firmware that is not in this repositor
 
 ## Related
 
-[High-rate vibration DAQ](https://github.com/Curious-Utkarsh/Teensy_Esp) · [Wearable BLE telemetry](https://github.com/Curious-Utkarsh/Wearable-IOT) — other embedded work from the same period
+[High-rate vibration DAQ](https://github.com/Curious-Utkarsh/vibration-daq-teensy-esp32) · [Wearable BLE telemetry](https://github.com/Curious-Utkarsh/wearable-ble-telemetry) — other embedded work from the same period
 
 ---
 [Kumar Utkarsh](https://github.com/Curious-Utkarsh) · [LinkedIn](https://www.linkedin.com/in/kumar-utkarsh-124aab227/)
