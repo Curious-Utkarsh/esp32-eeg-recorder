@@ -6,7 +6,7 @@
 
 A single-channel EEG/EXG recorder built from an Upside Down Labs **BioAmp EXG Pill** and an **ESP32** sampling at **250 Hz**. The ESP32 hosts its own Wi-Fi access point with a captive portal: connect a phone or laptop and a live dashboard opens — no router, internet or app needed — where you can watch the signal and record timed sessions to CSV. A Python pipeline adds filtering and frequency-band analysis.
 
-Built during my Research Assistant role at IIT Bombay (NCAIR, Machine Intelligence Program), 2026.
+Built in 2026.
 
 ## Key features
 
